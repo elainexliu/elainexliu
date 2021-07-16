@@ -19,7 +19,7 @@ public class Me{
    }
   
    public String getExperience{
-      String languages = "java, python, Arduino (C++)";
+      String languages = "Java, Python, Arduino (C++)";
     
       return languages;
    }
