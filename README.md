@@ -1,16 +1,31 @@
-### Hi there 👋
+```
+public class Me{
 
-<!--
-**elainexliu/elainexliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   private String name;
+   private int age;
+  
+   public Me(){
+      name = "Elaine Liu";
+      age = 17;
+    }
+  
+   public String getContacts{
+      String linkedin = "elainexliu";
+      String instagram = "elainexliu";
+      String github = "elainexliu";
+      String email = "elaineliu04@gmail.com";
+    
+      return linkedin+instagram+github+email;
+   }
+  
+   public String getExperience{
+      String languages = "java, python, Arduino (C++)";
+    
+      return languages;
+   }
+  
+   public static void main(String[] args){
+      System.out.print("Feel free to reach out!");
+   }
+}
+```
