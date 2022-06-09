@@ -6,14 +6,14 @@ public class Me{
   
    public Me(){
       name = "Elaine Liu";
-      age = 17;
+      age = 18;
     }
   
    public String getContacts{
       String linkedin = "elainexliu";
       String instagram = "elainexliu";
       String github = "elainexliu";
-      String email = "elaineliu04@gmail.com";
+      String email = "exliu@mit.edu";
     
       return linkedin+instagram+github+email;
    }
