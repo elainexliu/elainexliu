@@ -6,7 +6,7 @@ public class Me{
   
    public Me(){
       name = "Elaine Liu";
-      age = 18;
+      age = 19;
     }
   
    public String getContacts{
