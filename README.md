@@ -1,31 +1,4 @@
-```java
-public class Me{
+Hey, I'm Elaine!
 
-   private String name;
-   private int age;
-  
-   public Me(){
-      name = "Elaine Liu";
-      age = 19;
-    }
-  
-   public String getContacts{
-      String linkedin = "elainexliu";
-      String instagram = "elainexliu";
-      String github = "elainexliu";
-      String email = "exliu@mit.edu";
-    
-      return linkedin+instagram+github+email;
-   }
-  
-   public String getExperience{
-      String languages = "Java, Python, Arduino (C++)";
-    
-      return languages;
-   }
-  
-   public static void main(String[] args){
-      System.out.print("Feel free to reach out!");
-   }
-}
-```
+I'm studying EECS @ MIT and am interested in tech for health and safety. You can reach me at exliu@mit.edu, or find more here:
+https://www.linkedin.com/in/elainexliu/
